@@ -1,0 +1,31 @@
+p {
+    color: #800040;
+}
+h1 { 
+    color: green;
+}
+h2 { 
+    color: blue;
+}
+h3 { 
+    color: red;
+}
+h1 {
+    text-align: right;
+}
+
+td {
+    text-align: center;
+    width: 500px;
+}
+th{
+    text-align: left;
+}
+p {
+    width: 300px;
+    text-align: justify;
+}
+h2 {
+    width: 300px;
+    text-align: center;
+}
