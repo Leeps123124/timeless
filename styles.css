@@ -5,6 +5,7 @@ h1 {
     text-align: center; /*выравнивание текста*/
     color: green; /*цвет текста*/
     font-size: 50px; /*размер шрифта*/
+    font-weight: normal; /*жирность шрифта*/
 }
 
 td {
@@ -18,14 +19,9 @@ th{
     font-weight: normal; /*жирность шрифта*/
 }
 p {
-    font-weight: bold; /*жирность шрифта*/
-    text-align: justify; /*выравнивание текста*/
-    color: #800040; /*цвет текста*/
-    font-style: italic; /*стиль шрифта*/
-    font-family: Comic Sans MS; /*шрифт*/
-    font-size:30px; /*размер шрифта*/
-    line-height: 1.5; /*высота строки*/
-    width: 500px; /*ширина*/
+   font: 700 32px/48px Georgia, serif;
+   color: #333;
+   margin-bottom: 20px;
 }
 h2 {
     font-weight: normal; /*жирность шрифта*/
