@@ -19,9 +19,11 @@ th{
     font-weight: normal; /*жирность шрифта*/
 }
 p {
-   font: 700 32px/48px Georgia, serif;
-   color: #333;
-   margin-bottom: 20px;
+   font: 700 32px/48px Georgia, serif; /*шрифт*/
+   color: #333; /*цвет текста*/
+   margin-bottom: 20px; /*отступ снизу*/
+   text-align: left; /*выравнивание текста*/
+   text-decoration: underline; /*подчеркивание текста*/
 }
 h2 {
     font-weight: normal; /*жирность шрифта*/
@@ -30,4 +32,7 @@ h2 {
     color: blue   ; /*цвет текста*/
     font-size: 40px; /*размер шрифта*/
     font-family: Verdana; /*шрифт*/
+}
+a {
+    text-decoration: none; /*убирает подчеркивание*/
 }
