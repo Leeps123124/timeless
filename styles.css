@@ -1,31 +1,37 @@
-p {
-    color: #800040;
-}
-h1 { 
-    color: green;
-}
-h2 { 
-    color: blue;
-}
 h3 { 
-    color: red;
+    color: red; /*цвет текста*/
 }
 h1 {
-    text-align: right;
+    text-align: center; /*выравнивание текста*/
+    color: green; /*цвет текста*/
+    font-size: 50px; /*размер шрифта*/
 }
 
 td {
-    text-align: center;
-    width: 500px;
+    text-align: center; /*выравнивание текста*/
+    width: 100px; /*ширина*/
+    height: 300px; /*высота*/
+    font-weight: bold; /*жирность шрифта*/
 }
 th{
-    text-align: left;
+    text-align: left; /*выравнивание текста*/
+    font-weight: normal; /*жирность шрифта*/
 }
 p {
-    width: 300px;
-    text-align: justify;
+    font-weight: bold; /*жирность шрифта*/
+    text-align: justify; /*выравнивание текста*/
+    color: #800040; /*цвет текста*/
+    font-style: italic; /*стиль шрифта*/
+    font-family: Comic Sans MS; /*шрифт*/
+    font-size:30px; /*размер шрифта*/
+    line-height: 1.5; /*высота строки*/
+    width: 500px; /*ширина*/
 }
 h2 {
-    width: 300px;
-    text-align: center;
+    font-weight: normal; /*жирность шрифта*/
+    width: 300px; /*ширина*/
+    text-align: center; /*выравнивание текста*/
+    color: blue   ; /*цвет текста*/
+    font-size: 40px; /*размер шрифта*/
+    font-family: Verdana; /*шрифт*/
 }
