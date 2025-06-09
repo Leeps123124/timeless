@@ -1,0 +1,33 @@
+h3 { 
+    color: red; /*цвет текста*/
+}
+h1 {
+    text-align: center; /*выравнивание текста*/
+    color: green; /*цвет текста*/
+    font-size: 50px; /*размер шрифта*/
+    font-weight: normal; /*жирность шрифта*/
+}
+
+td {
+    text-align: center; /*выравнивание текста*/
+    width: 100px; /*ширина*/
+    height: 300px; /*высота*/
+    font-weight: bold; /*жирность шрифта*/
+}
+th{
+    text-align: left; /*выравнивание текста*/
+    font-weight: normal; /*жирность шрифта*/
+}
+p {
+   font: 700 32px/48px Georgia, serif;
+   color: #333;
+   margin-bottom: 20px;
+}
+h2 {
+    font-weight: normal; /*жирность шрифта*/
+    width: 300px; /*ширина*/
+    text-align: center; /*выравнивание текста*/
+    color: blue   ; /*цвет текста*/
+    font-size: 40px; /*размер шрифта*/
+    font-family: Verdana; /*шрифт*/
+}
